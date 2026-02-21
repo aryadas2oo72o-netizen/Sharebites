@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [ShareBites] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [Logicloop]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [Arya das] - [SNM Institute of Management and Technology]
+- Member 2: [Bonifus Varghese] - [SNM Institue of Management and Technology]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[ShareBites solves the problem of food wastege and hunger in communities.It connects the donors with people in need through a simple digital platform.]
 
 ### The Problem statement
-[What problem are you solving?]
+[Excess food from home,restaurants and events is often wasted due to lack of proper distribution system. ]
 
 ### The Solution
-[How are you solving it?]
+[we solve this by creating a digital platform that connects food donors directly with receivers in real time ]
 
 ---
 
@@ -31,25 +31,19 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: TypeScript
+- Frameworks used:React 19, Express.js,Tailwind CSS
+- Libraries used: Motion (Framer Motion),Lucide React
+- Tools used: [ VS Code, Git, Docker]
 
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
-
----
 
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [User role system-users can register as donors/recivers]
+- Feature 2: [food posting module]
+- Feature 3: [browes and claim feater]
+- Feature 4: [status tracking system]
 
 ---
 
@@ -83,14 +77,13 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+!<img width="2880" height="1704" alt="Screenshot 2026-02-21 163058" src="https://github.com/user-attachments/assets/1202f698-09a1-4270-bc2b-62ba4e7758e1" />..
+it shows the dashboard of the donor
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="2880" height="1704" alt="Screenshot 2026-02-21 163326" src="https://github.com/user-attachments/assets/13892121-6a16-4bb4-a0d3-ae01db58dfe5" />
+this isthe main dashboard to see donated food
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+
 
 #### Diagrams
 
@@ -374,7 +367,7 @@ python script.py -v --format json data.json
 
 If you used AI tools during development, document them here for transparency:
 
-**Tool Used:** [e.g., GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
+**Tool Used:** [ GitHub Copilot, v0.dev, Cursor, ChatGPT, Claude]
 
 **Purpose:** [What you used it for]
 - Example: "Generated boilerplate React components"
@@ -400,9 +393,9 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
-- [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
+- [Name 1]: [Arya Das- Frontend development, API integration
+- [Name 2]: [Bonifus Varghese- Backend development, Database design,
+
 
 ---
 
